@@ -1,0 +1,2 @@
+[elo](Konrad)
+[Chyj](piizda)

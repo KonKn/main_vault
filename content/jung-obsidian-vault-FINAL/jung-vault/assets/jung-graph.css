@@ -1,0 +1,40 @@
+/*
+ * JUNG VAULT — GRAPH VIEW CSS SNIPPET
+ * Wklej do: .obsidian/snippets/jung-graph.css
+ * Włącz w: Settings > Appearance > CSS snippets
+ */
+
+/* Kolory węzłów wg folderu/tagu */
+.graph-view.color-fill-tag-archetyp {
+  color: #c0392b; /* czerwień — Archetypy */
+}
+
+.graph-view.color-fill-tag-nieswiadomosc {
+  color: #2980b9; /* niebieski — Nieświadomość */
+}
+
+.graph-view.color-fill-tag-indywiduacja {
+  color: #f39c12; /* złoty — Indywiduacja */
+}
+
+.graph-view.color-fill-tag-alchemia {
+  color: #8e44ad; /* fiolet — Alchemia */
+}
+
+.graph-view.color-fill-tag-terapia {
+  color: #27ae60; /* zieleń — Terapia */
+}
+
+.graph-view.color-fill-tag-synchronicznosc {
+  color: #1abc9c; /* turkus — Synchroniczność */
+}
+
+/* Tło grafu */
+.graph-view.color-bg {
+  color: #0d0d0d;
+}
+
+/* Linie połączeń */
+.graph-view.color-line {
+  color: #333333;
+}

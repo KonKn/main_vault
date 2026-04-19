@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:03-Archetypy",
+      "color": {
+        "a": 1,
+        "rgb": 12528652
+      }
+    },
+    {
+      "query": "path:02-Nieswiadomosc",
+      "color": {
+        "a": 1,
+        "rgb": 2727066
+      }
+    },
+    {
+      "query": "path:01-Fundament",
+      "color": {
+        "a": 1,
+        "rgb": 15978496
+      }
+    },
+    {
+      "query": "path:07-Alchemia-i-Symbolika",
+      "color": {
+        "a": 1,
+        "rgb": 9371648
+      }
+    },
+    {
+      "query": "path:06-Sny",
+      "color": {
+        "a": 1,
+        "rgb": 3100164
+      }
+    },
+    {
+      "query": "path:08-Mity-i-Religia",
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
+    },
+    {
+      "query": "path:09-Synchronicznosc",
+      "color": {
+        "a": 1,
+        "rgb": 1752492
+      }
+    },
+    {
+      "query": "path:10-Terapia",
+      "color": {
+        "a": 1,
+        "rgb": 2613248
+      }
+    },
+    {
+      "query": "path:00-MAPA",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.3,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.3,
+  "repelStrength": 8,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}
